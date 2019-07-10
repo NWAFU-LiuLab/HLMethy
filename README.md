@@ -33,7 +33,7 @@ A reserved samples file 'reserved.txt' will be created in current path.
 
 **Usage: python {0} dataset model_file scale_file predict_res**
 
-This script will generate scores to relabel the candidate m6As.
+This script will generate scores to relabel the candidate m6A sites.
 
 **Example: python m6A_model_prediction.py ./traindata/test_example.txt ./svc.pkl ./scale.pkl predict_res**
 
