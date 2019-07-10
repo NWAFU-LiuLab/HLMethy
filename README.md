@@ -5,6 +5,7 @@ The misvm package should be installed at first, which can be downloaded from htt
 m6A_model_training.py
 
 Usage: python {0} positive_dataset negative_dataset method model_file scale_file score_file reserved_file
+
 This script is used to train a bag level miSVM/MISVM model.
 method : method of selection
      0 -- miSVM
